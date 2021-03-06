@@ -1,10 +1,8 @@
 import React from 'react'
-
-import { ExampleComponent } from 'react-canvas-paint'
-import 'react-canvas-paint/dist/index.css'
+import ReactCanvasPaint from 'react-canvas-paint'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <ReactCanvasPaint />
 }
 
 export default App
