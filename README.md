@@ -40,7 +40,6 @@ class Example extends Component {
 | `colors`      | Array    | ['#7030A2', '#000000', '#0170C1', '#FE0002', '#FFFF01', '#00AF52'] | array of choosable colors to draw               |
 | `strokeWidth` | number   | 5                                                                  | width of drawing stroke                         |
 
-Note that the canvas size will automatically be inferred based on available space via [react-sizeme](https://github.com/ctrlplusb/react-sizeme), so it should be really easy to use this component as a fullscreen background as in the [demo](https://transitive-bullshit.github.io/react-starfield-animation/).
 
 ## License
 
