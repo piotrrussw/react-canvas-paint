@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import ReactCanvasPaint from '.'
 
-describe('ExampleComponent', () => {
+describe('ReactCanvasPaint component tests', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ReactCanvasPaint).toBeTruthy()
   })
 })
